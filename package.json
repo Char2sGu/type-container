@@ -14,7 +14,12 @@
   "author": "Char2sGu <char2s@outlook.com>",
   "license": "Apache-2.0",
   "description": "Essential component for TypeScript magics.",
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "type",
+    "container",
+    "generic"
+  ],
   "files": [
     "/src",
     "/dist",
