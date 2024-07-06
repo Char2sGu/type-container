@@ -1,0 +1,23 @@
+{
+  "name": "type-container",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rimraf ./dist && tsc --build"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.8",
+    "typescript": "^5.5.3"
+  },
+  "author": "Char2sGu <char2s@outlook.com>",
+  "license": "Apache-2.0",
+  "description": "Essential component for TypeScript magics.",
+  "keywords": [],
+  "files": [
+    "/src",
+    "/dist",
+    "/README.md",
+    "/LICENSE"
+  ]
+}
