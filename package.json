@@ -4,7 +4,8 @@
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
-    "build": "rimraf ./dist && tsc --build"
+    "build": "rimraf ./dist && tsc --build",
+    "release": "npm version -m 'build: release v%s'"
   },
   "devDependencies": {
     "rimraf": "^5.0.8",
