@@ -2,6 +2,10 @@
 
 Essential component for TypeScript magics.
 
+```sh
+npm i type-container
+```
+
 ## Fundamentals
 
 A Type Container is simply an empty object but carries specific TypeScript type information, enabling infinite possibilities of advanced type inferences and manipulations.
